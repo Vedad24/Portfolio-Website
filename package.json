@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d home"
@@ -12,5 +11,7 @@
   "homepage": "https://Vedad24.github.io/Portfolio-Website",
   "dependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
